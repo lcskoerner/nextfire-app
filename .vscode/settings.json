@@ -1,0 +1,10 @@
+{
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    // "typescript",
+    // "typescriptreact"
+  ],
+  "javascript.validate.enable": false,
+  "standard.enable": true
+}
